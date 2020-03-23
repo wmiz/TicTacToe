@@ -7,4 +7,4 @@ In this project I want to practice the following:
 * Limiting global variables
 * Working with JS Objects
 
-This project is from the curriculum at (The Odin Project)[https://www.theodinproject.com/lessons/tic-tac-toe-javascript]
+This project is from the curriculum at [The Odin Project](https://www.theodinproject.com/lessons/tic-tac-toe-javascript)
